@@ -1,4 +1,3 @@
-<b>This repository is to host my slides/code using in topics shared in China PyCon 2015.</b>
 ## Big Data Analysis and Visualization using Python
 Topic shared in PyCon 2015 Shanghai on 9.12 
 
