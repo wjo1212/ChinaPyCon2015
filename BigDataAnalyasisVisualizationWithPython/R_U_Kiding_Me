@@ -1,3 +1,3 @@
-Why not PDF, Where's are notebook files?
+Why using notebook in PDF, Where's are *.ipynb?
 1. The PDF contains codes as well as execution results.
 2. The code actually cannot run without env setup's ready (including configure matplotlib for Chinese Code display, Spark etc...). You want to try, setup an virtual env with all necessary libs using pip or conda first which mentioned in the slides.
