@@ -1,5 +1,5 @@
 ## Big Data Analysis and Visualization using Python
-Topic shared in PyCon 2015 Shanghai on 9.12 
+Topic shared in PyCon 2015 Shanghai on 9.12 and Beijing on 9.19 
 
 ## Effective Python Functional Programming
 Technology, Tools and Practice
